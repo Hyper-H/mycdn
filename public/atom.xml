@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>何皓鹏</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <id>http://example.com/</id>
+  <link href="http://example.com/" rel="alternate"/>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, 何皓鹏</rights>
+  <subtitle>行有不得，反求诸己</subtitle>
+  <title>何皓鹏</title>
+  <updated>2026-03-03T15:42:16.750Z</updated>
+  <entry>
+    <author>
+      <name>何皓鹏</name>
+    </author>
+    <content>
+      <![CDATA[<table>    <tr style="height: 50px;">        <td style="font-size: 1.8em;"><strong>何皓鹏👨‍💻</strong></td>        <td style="font-size: 1.5em;"><strong>政治面貌：中共预备党员</strong></td>         <td rowspan="5">            <img src="/img/me.jpg" height="140" alt="">        </td>    </tr>    <tr>        <td>英语水平：通过四六级</td>        <td>电话：15374868499</td>    </tr>    <tr>        <td>出生年月：2003年9月</td>        <td>邮箱：15374868499@163.com</td>    </tr>    <tr>        <td>现住址：杭州</td>        <td>教育背景：2022届 中国计量大学 本科 大数据科学与技术</td>    </tr>    <tr>        <td><a href="https://www.zhihu.com/people/la-la-la-80-41-43">博客主页</a></td>        <td><a href="https://github.com/Hyper-H">GitHub主页</a></td>    </tr></table><hr/><h3 id="😎专业技能"><a href="#😎专业技能" class="headerlink" title="&#x3D;&#x3D;😎专业技能&#x3D;&#x3D;"></a>&#x3D;&#x3D;😎专业技能&#x3D;&#x3D;</h3><ul><li>熟练掌握<strong>Python、C++、Matlab</strong>编程语言，具备扎实的编程基础与工程实现能力</li><li>熟悉<strong>PyTorch深度学习框架</strong>，能独立完成模型搭建、训练与调优相关工作，</li><li>具备<strong>Flutter跨平台前端开发经验</strong>，熟悉前端页面搭建与交互实现，了解 Hexo 静态博客开发</li><li>精通<strong>LaTeX、Word等</strong>论文撰写与排版工具，能高效完成学术文档、建模论文、项目报告的编写与格式优化</li><li>具备算法实现、数据分析、数学建模与项目开发全流程实操能力</li></ul><hr/><h3 id="🏢项目实践经历"><a href="#🏢项目实践经历" class="headerlink" title="&#x3D;&#x3D;🏢项目实践经历&#x3D;&#x3D;"></a>&#x3D;&#x3D;🏢项目实践经历&#x3D;&#x3D;</h3><!--  学完补充<h4 style="display: flex;justify-content: space-between;"><span>2026.01-2024.06</span><span>基于prtorch图像识别</span><span>队长</span></h4>- 项目介绍：- 负责内容：- 项目成果：--><h4 style="display: flex;justify-content: space-between;"><span>2024.01-2024.06</span><span>机器人对战平台开发</span><span>队长</span></h4><ul><li>项目介绍：针对传统避障车灵活性与拓展性不足的问题，主导开发模块化机器人对战平台，基于树莓派打造可定制对战机器人，配套多端控制与观战系统，构建高交互、低成本智能对战生态。</li><li>负责内容：参与项目全流程开发，基于树莓派 4B 完成战车硬件模块化搭建，运用 Flutter开发前端，运用C++<br>编写硬件战车程序，参与系统测试、规则设计与功能优化，保障平台稳定运行 </li><li>项目成果：荣获全国大学生服务外包竞赛全国三等奖，完成全套平台开发，实现模块可插拔、多端协同等核心功能，控制硬件成本，四轮式 &#x2F; 履带式方案分别低至 650 元 &#x2F; 814 元，具备高性价比与落地可行性。建立完善对战规则与数据管理体系，可应用于创客教育、机器人竞赛等场景，兼具实用性与娱乐性。</li></ul><h4 style="display: flex;justify-content: space-between;"><span>2025.01-2025.03</span><span>基于随机元胞自动机的森林 - 农田生态系统演化研究</span><span>组员</span></h4><ul><li>项目介绍：针对森林转农田引发的生态失衡问题，构建多维度数学模型量化分析生态动态变化，探究化学干预、物种重引入及有机农业等措施对生态稳定性与可持续性的影响，为可持续农业发展提供理论支撑</li><li>负责内容：负责建模工作，构建基于食物网的捕食者 - 猎物微分方程模型与随机元胞自动机模型，融入农业周期与季节变化因素。编写 Python 代码实现模型求解与动态仿真，优化状态转移规则，量化化学药剂、蝙蝠、根瘤菌等对生态系统的影响。参与论文的撰写工作。</li><li>项目成果：获得美国大学生数学建模竞赛 Honorable Mention</li></ul><h4 style="display: flex;justify-content: space-between;"><span>2023.05-2023.11</span><span>杭州亚运会/残运会志愿者</span><span>组员/队长</span></h4><ul><li>负责内容：亚运会期间负责梳理参赛选手信息、辅助裁判员打分、核算张贴成绩等。残运会负责管理衣箱搬运志愿者。</li><li>项目成果：获评优秀志愿者奖</li></ul><!--<h4 style="display: flex;justify-content: space-between;"><span>2026.02- 至今</span><span>个人网站开发</span></h4>> 基于Spring + Mybatis-Plus + MySQL + Redis + RabbitMQ + ES + Docker + Nacos + Fegin的微服务项目。是个类似于CSDN的博客社区，但博客的推送是基于院校的。**<u>GitHub Star 380+</u>，[开源地址](https://github.com/stick-i/scblogs)，[系统架构图](https://gitee.com/sticki/scblogs/raw/main/document/image/scblogs-framework.png)**。- 采用 **微服务架构设计开发** ，各服务间通过 **Fegin** 进行同步通信、通过 **RabbitMQ** 进行异步通信；- 服务拆分：用户服务、博客服务、网关服务、搜索服务、评论服务、动态服务、资源服务、消息服务；- 搭建网关服务，负责路由、鉴权、限流，设计并实现 **缓存** + **异步** 的方式记录请求日志；- 设计并实现 **AOP** + **自定义注解** + **Redis** 限制IP接口访问次数，并支持细粒度的访问控制；- 基于 **ES** 搭建搜索服务、使用 **Redis** 做系统缓存功能，提升整体访问速度；- 基于 **Jenkins** + **Docker** 进行 **自动化部署** 和持续集成，解决微服务项目部署繁琐的问题。--><hr/><h3 id="🏆获奖经历"><a href="#🏆获奖经历" class="headerlink" title="&#x3D;&#x3D;🏆获奖经历&#x3D;&#x3D;"></a>&#x3D;&#x3D;🏆获奖经历&#x3D;&#x3D;</h3><ul><li>2025年 全国大学生数学竞赛浙江赛区 <b>一等奖</b></li><li>2025年 美国大学生数学建模竞赛  <b>Honorable Mention</b></li><li>2024年 中国大学生服务外包创新创业大赛 <b>全国三等奖</b></li><li>2024年 中国大学生服务外包创新创业大赛东部区域赛 <b>二等奖</b></li><li>2024年 APMCM亚太地区大学生数学建模竞赛 <b>一等奖</b></li><li>2024年 长三角高校数学建模竞赛 <b>二等奖</b></li><li>2024年 MathorCup数学应用挑战赛 <b>二等奖</b></li><li>2023年 第19届亚运会 <b>优秀志愿者</b></li><li>2023年 APMCM亚太地区大学生数学建模竞赛 <b>二等奖</b></li><li>2023年 长三角高校数学建模竞赛 <b>三等奖</b></li></ul><hr/><h3 id="✍个人评价"><a href="#✍个人评价" class="headerlink" title="&#x3D;&#x3D;✍个人评价&#x3D;&#x3D;"></a>&#x3D;&#x3D;✍个人评价&#x3D;&#x3D;</h3><p>-学习态度端正、专业基础扎实，本科多次获学业奖学金，<br>-参与多项学科竞赛，坚持深耕钻研、稳步进步，实践与团队协作能力突出；<br>-具备科研实战经验，可独立研读专业文献，自主学习、逻辑思维与抗压能力良好。<br>-兼顾体育与志愿活动，沟通、表达、组织管理能力良好，综合素质均衡，能快速适配研究生阶段学习科研工作。</p><style>    #write {        padding: 25px 25px 0px;    }    hr {        margin: 6px;    }    li {        margin: 4px;    }    p {        margin: 4px 13px;    }    li p{        margin: 5px 0;    }    h1 {        margin: 8px 15px;    }    h3 {        margin: 9px;    }    h4 {        margin: 7px;    }    figure {        margin: 7px 0px;    }    blockquote {        padding-left: 16px;    }    /* 链接下划线 */    a {        text-decoration:underline;    }    /* 图片阴影效果 */    img {        box-shadow: 0px 0px 10px rgba(0,0,0,.5);    }    /* 表格样式，去除边框显示 */    table, table td, table tr, table th, th {        font-weight: normal;        padding: 3px 13px;        border: 0px;        background-color: #ffffff;    }</style>]]>
+    </content>
+    <id>http://example.com/2026/03/01/resume/</id>
+    <link href="http://example.com/2026/03/01/resume/"/>
+    <published>2026-03-01T04:51:06.590Z</published>
+    <summary>
+      <![CDATA[<table>
+    <tr style="height: 50px;">
+        <td style="font-size: 1.8em;"><strong>何皓鹏👨‍💻</strong></td>
+        <td style="font-size: 1.]]>
+    </summary>
+    <title>个人简历</title>
+    <updated>2026-03-03T15:42:16.750Z</updated>
+  </entry>
+</feed>
